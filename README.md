@@ -38,4 +38,4 @@ Template that gives the programmer the functionality of FIFO. Strong exception s
 </br>Created thanks to `Boost.Operators`. Iterators are null when queue is successfully modified. Those objects provides read-only access in increasing order.
 
 
-Project made for classes at University of Warsaw.
+Project was made for classes at University of Warsaw.
